@@ -1,0 +1,4 @@
+#Mon Jul 18 13:19:32 ICT 2022
+base.0=D\:\\backup\\S4\\PemroMobile\\toko_gitar-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
